@@ -3,8 +3,8 @@
 I am a final-year B.Tech Computer Science & Engineering student at GCEK, Bhawanipatna. I am a passionate Full-Stack Developer and AI/ML enthusiast who loves building automation tools and scalable web applications.
 
 ### 🚀 What I'm working on
-- **Major Project:** [Doctor Appointment & Disease Prediction App](https://github.com/Ayusman23) - A MERN + Python ML application for healthcare.
-- **AI Automation:** Improving [J.A.R.V.I.S.](https://github.com/Ayusman23), my personal AI Voice Assistant with face recognition and Gemini API integration.
+- **Major Project:** [Doctor Appointment & Disease Prediction App](https://github.com/Ayusman23/Disease-Prediction_Doctor-Recommendation_APP.git) - A MERN + Python ML application for healthcare.
+- **AI Automation:** Improving [Ai-Virtual Assistant](https://github.com/Ayusman23/Ai-Virtual-Assistant.git), my personal AI Voice Assistant with face recognition and Gemini API integration.
 - **Continuous Learning:** Preparing for technical placements and refining my full-stack skills.
 
 ### 🛠 Tech Stack
