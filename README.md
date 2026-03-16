@@ -24,9 +24,9 @@ I am a final-year B.Tech Computer Science & Engineering student at GCEK, Bhawani
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayusman23&layout=compact&theme=radical)
 
 ### 📫 How to reach me
-- **LinkedIn:** [linkedin.com/in/ayusmansamantaray](https://www.linkedin.com/in/ayusmansamantaray/)
-- **Email:** ayusman.work@email.com
-- **Portfolio:** [Link to your portfolio if you have one]
+- **LinkedIn:** [linkedin.com/in/ayusmansamantaray](https://www.linkedin.com/in/ayusman-samantaray-153906284/)
+- **Email:** ayusmansamantaray08@email.com
+- **Portfolio:** [https://ayusman23.github.io/Personal-Portfolio/]
 
 ---
 *"The best way to predict the future is to invent it."*
