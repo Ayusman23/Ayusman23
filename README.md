@@ -29,7 +29,7 @@ My internship experience spans nationally recognized organizations including **D
 - 🤖 Improving my **AI Virtual Assistant** with face recognition & Gemini API
 - 📚 Preparing for technical placements & refining full-stack skills
 - 💬 Ask me about **React, Node.js, Python, ML, or System Design**
-- 📫 Reach me at **ayusmansamantaray08@email.com**
+- 📫 Reach me at **ayusmansamantaray23@email.com**
 
 ---
 
