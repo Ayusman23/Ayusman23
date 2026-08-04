@@ -122,7 +122,11 @@ Personal voice assistant with face recognition, NLP task parsing, and Gemini API
 
 <img src="https://streak-stats.demolab.com/?user=Ayusman23&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayusman23&theme=tokyo-night&hide_border=true" width="95%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayusman23/Ayusman23/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayusman23/Ayusman23/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Ayusman23/Ayusman23/output/github-contribution-grid-snake.svg" width="95%" />
+</picture>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Ayusman23&theme=tokyonight&no-frame=true&row=1&column=6" width="95%" />
 
