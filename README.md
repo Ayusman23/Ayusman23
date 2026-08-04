@@ -1,123 +1,151 @@
-<h1 align="center">Hi there, I'm Ayusman Samantaray 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>Full-Stack Developer &nbsp;·&nbsp; AI/ML Enthusiast &nbsp;·&nbsp; Final Year B.Tech CSE @ GCEK Bhawanipatna</b>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1a1a2e&height=200&section=header&text=Ayusman%20Samantaray&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Building%20Real-World%20Software&descAlignY=55&descSize=16" width="100%"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ayusman-samantaray-153906284/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://ayusman23.github.io/Personal-Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" />
-  </a>
-  <a href="mailto:ayusmansamantaray08@email.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Ayusman23&style=for-the-badge&color=0e75b6" />
-</p>
+<a href="https://www.linkedin.com/in/ayusman-samantaray-153906284/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://ayusman23.github.io/Personal-Portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="mailto:ayusmansamantaray08@email.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Ayusman23">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
----
+<br/>
 
-## 🧑‍💻 About Me
+<img src="https://komarev.com/ghpvc/?username=Ayusman23&style=flat-square&color=0A66C2&label=Profile+Views" />
+<img src="https://img.shields.io/badge/dynamic/json?color=success&label=Open%20to%20Work&query=status&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAyusman23&style=flat-square" />
 
-I'm a final-year **Computer Science & Engineering** student with a strong foundation in full-stack development and growing expertise in **AI/ML**. I enjoy building end-to-end systems — from intuitive frontends to scalable backends and intelligent prediction models.
+</div>
 
-My internship experience spans nationally recognized organizations including **DRDO** and **Hindustan Aeronautics Ltd (HAL)**, where I delivered production-grade enterprise software. I'm currently seeking **software engineering roles** where I can contribute meaningfully from day one while continuing to grow.
+<br/>
 
-- 🔭 Currently working on a **Disease Prediction & Doctor Recommendation App** (MERN + Python ML)
-- 🤖 Improving my **AI Virtual Assistant** with face recognition & Gemini API
-- 📚 Preparing for technical placements & refining full-stack skills
-- 💬 Ask me about **React, Node.js, Python, ML, or System Design**
-- 📫 Reach me at **ayusman516@email.com**
+<img src="https://readme-typing-svg.demolab.com/?lines=Final-Year+CSE+Student+%40+GCEK+Bhawanipatna;Full-Stack+Developer+%7C+MERN+%2B+Python;AI%2FML+%7C+Building+Intelligent+Systems;Ex-Intern+%40+DRDO+%26+HAL;Open+to+Software+Engineering+Roles&font=Fira%20Code&center=true&width=650&height=45&duration=3000&pause=1000&color=0A66C2&vCenter=true&size=22" />
 
 ---
 
-## 🛠️ Tech Stack
+### 🧑‍💻 About Me
+
+I'm a final-year **Computer Science & Engineering** student who builds complete, working software — not just prototypes. My focus is **full-stack web development** with a growing specialization in **applied AI/ML**, and I care most about shipping systems that actually solve a problem end-to-end.
+
+I've interned at nationally recognized organizations — **DRDO** and **Hindustan Aeronautics Limited (HAL)** — where I delivered production-facing tools under real engineering constraints. I'm currently looking for **Software Engineering / SDE roles** where I can contribute from day one.
+
+```yaml
+role: Full-Stack Developer & AI/ML Enthusiast
+current_focus: Disease Prediction & Doctor Recommendation App (MERN + Python ML)
+also_building: AI Virtual Assistant — face recognition + Gemini API
+learning: System Design, advanced ML deployment
+looking_for: Software Engineer / Full-Stack Developer roles
+fun_fact: I'd rather debug for 3 hours than write docs for 30 minutes 😅
+```
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
 
 **Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<br/>
+<img src="https://skillicons.dev/icons?i=python,js,cpp,c,mysql" />
 
 **Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<br/>
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
 
 **Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,dotnet" />
 
 **Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 
 **Tools & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,azure,docker,vscode,postman" />
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 🏥 [Disease Prediction & Doctor Recommendation App](https://github.com/Ayusman23/Disease-Prediction_Doctor-Recommendation_APP.git)
-> MERN + Python ML application for healthcare — predicts diseases from symptoms and recommends specialist doctors.
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![ML](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+</div>
 
 ---
 
-### 🤖 [AI Virtual Assistant](https://github.com/Ayusman23/Ai-Virtual-Assistant.git)
-> Personal AI voice assistant with face recognition, NLP, and Gemini API integration for intelligent task automation.
+### 🚀 Featured Projects
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Gemini](https://img.shields.io/badge/-Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white)
-![NLP](https://img.shields.io/badge/-NLP-8E44AD?style=flat-square&logoColor=white)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🏥 [Disease Prediction & Doctor Recommendation App](https://github.com/Ayusman23/Disease-Prediction_Doctor-Recommendation_APP.git)**
+
+MERN + Python ML healthcare app that predicts likely conditions from symptoms and recommends specialist doctors nearby.
+
+`React` `Node.js` `Python` `MongoDB` `ML`
+
+</td>
+<td width="50%" valign="top">
+
+**🤖 [AI Virtual Assistant](https://github.com/Ayusman23/Ai-Virtual-Assistant.git)**
+
+Personal voice assistant with face recognition, NLP task parsing, and Gemini API integration for automated task execution.
+
+`Python` `OpenCV` `Gemini API` `NLP`
+
+</td>
+</tr>
+</table>
+
+> 📌 *More projects on my [portfolio site](https://ayusman23.github.io/Personal-Portfolio/) and pinned repos below.*
 
 ---
 
-## 💼 Professional Experience
+### 💼 Professional Experience
 
-| Organization | Role | Highlights |
+| Organization | Role | Impact |
 |---|---|---|
-| 🛡️ **ITR, DRDO — Balasore** | Web Research Intern | Built a Canteen Management System using .NET Framework & MySQL, deployed at a premier defence R&D establishment |
-| ✈️ **Hindustan Aeronautics Ltd (HAL)** | Web Development Intern | Developed enterprise-grade web solutions under strict reliability & security standards at India's leading aerospace manufacturer |
-| 💻 **Cipherbyte Technologies** | Web Development Intern | Built responsive UI components with focus on cross-browser compatibility and clean component architecture |
+| 🛡️ **ITR, DRDO — Balasore** | Web Research Intern | Built a Canteen Management System (.NET + MySQL) deployed at a premier defence R&D establishment |
+| ✈️ **Hindustan Aeronautics Ltd (HAL)** | Web Development Intern | Delivered enterprise-grade web solutions meeting strict reliability & security standards in aerospace |
+| 💻 **Cipherbyte Technologies** | Web Development Intern | Built responsive, cross-browser UI components with clean, reusable component architecture |
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayusman23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayusman23&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayusman23&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Ayusman23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayusman23&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayusman23&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayusman23&theme=tokyo-night&hide_border=true" width="95%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ayusman23&theme=tokyonight&no-frame=true&row=1&column=6" width="95%" />
+
+</div>
 
 ---
 
-<p align="center">
-  <i>"The best way to predict the future is to invent it."</i>
-</p>
+<div align="center">
+
+### 📬 Let's Connect
+
+I'm actively exploring **Software Engineering opportunities** — feel free to reach out for roles, collaborations, or just to talk tech.
+
+<a href="https://www.linkedin.com/in/ayusman-samantaray-153906284/">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:ayusmansamantaray08@email.com">
+  <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<i>"The best way to predict the future is to invent it."</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0A66C2&height=100&section=footer" width="100%"/>
+
+</div>
