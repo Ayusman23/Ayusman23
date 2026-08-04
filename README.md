@@ -35,13 +35,12 @@ I'm a **Computer Science & Engineering graduate (2026)** from GCEK Bhawanipatna 
 I've interned at nationally recognized organizations — **DRDO** and **Hindustan Aeronautics Limited (HAL)** — where I delivered production-facing tools under real engineering constraints. I'm currently looking for **Software Engineering / SDE roles** where I can contribute from day one.
 
 ```yaml
-role: Full-Stack Developer & AI/ML Enthusiast
-education: B.Tech CSE, GCEK Bhawanipatna (BPUT) — Class of 2026
-current_focus: Disease Prediction & Doctor Recommendation App (MERN + Python ML)
-also_building: AI Virtual Assistant — face recognition + Gemini API
-learning: System Design, advanced ML deployment
-looking_for: Software Engineer / Full-Stack Developer roles
-fun_fact: I'd rather debug for 3 hours than write docs for 30 minutes 😅
+role:            Full-Stack Developer & AI/ML Enthusiast
+education:       B.Tech CSE, GCEK Bhawanipatna (BPUT) — Class of 2026
+current_focus:   Disease Prediction & Doctor Recommendation App (MERN + Python ML)
+also_building:   AI Virtual Assistant — face recognition + Gemini API
+learning:        System Design, ML model deployment
+seeking:         Software Engineer / Full-Stack Developer roles
 ```
 
 ---
@@ -121,12 +120,6 @@ Personal voice assistant with face recognition, NLP task parsing, and Gemini API
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayusman23&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
 <img src="https://streak-stats.demolab.com/?user=Ayusman23&theme=tokyonight&hide_border=true" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayusman23/Ayusman23/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayusman23/Ayusman23/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Ayusman23/Ayusman23/output/github-contribution-grid-snake.svg" width="95%" />
-</picture>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Ayusman23&theme=tokyonight&no-frame=true&row=1&column=6" width="95%" />
 
