@@ -24,18 +24,19 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Final-Year+CSE+Student+%40+GCEK+Bhawanipatna;Full-Stack+Developer+%7C+MERN+%2B+Python;AI%2FML+%7C+Building+Intelligent+Systems;Ex-Intern+%40+DRDO+%26+HAL;Open+to+Software+Engineering+Roles&font=Fira%20Code&center=true&width=650&height=45&duration=3000&pause=1000&color=0A66C2&vCenter=true&size=22" />
+<img src="https://readme-typing-svg.demolab.com/?lines=CSE+Graduate+%402026+%7C+GCEK+Bhawanipatna;Full-Stack+Developer+%7C+MERN+%2B+Python;AI%2FML+%7C+Building+Intelligent+Systems;Ex-Intern+%40+DRDO+%26+HAL;Open+to+Software+Engineering+Roles&font=Fira%20Code&center=true&width=650&height=45&duration=3000&pause=1000&color=0A66C2&vCenter=true&size=22" />
 
 ---
 
 ### 🧑‍💻 About Me
 
-I'm a final-year **Computer Science & Engineering** student who builds complete, working software — not just prototypes. My focus is **full-stack web development** with a growing specialization in **applied AI/ML**, and I care most about shipping systems that actually solve a problem end-to-end.
+I'm a **Computer Science & Engineering graduate (2026)** from GCEK Bhawanipatna who builds complete, working software — not just prototypes. My focus is **full-stack web development** with a growing specialization in **applied AI/ML**, and I care most about shipping systems that actually solve a problem end-to-end.
 
 I've interned at nationally recognized organizations — **DRDO** and **Hindustan Aeronautics Limited (HAL)** — where I delivered production-facing tools under real engineering constraints. I'm currently looking for **Software Engineering / SDE roles** where I can contribute from day one.
 
 ```yaml
 role: Full-Stack Developer & AI/ML Enthusiast
+education: B.Tech CSE, GCEK Bhawanipatna (BPUT) — Class of 2026
 current_focus: Disease Prediction & Doctor Recommendation App (MERN + Python ML)
 also_building: AI Virtual Assistant — face recognition + Gemini API
 learning: System Design, advanced ML deployment
@@ -119,7 +120,7 @@ Personal voice assistant with face recognition, NLP task parsing, and Gemini API
 <img src="https://github-readme-stats.vercel.app/api?username=Ayusman23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayusman23&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayusman23&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=Ayusman23&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayusman23&theme=tokyo-night&hide_border=true" width="95%" />
 
